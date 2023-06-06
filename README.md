@@ -60,7 +60,7 @@ and open the cloned folder with Android Studio.
 
 ## About
 
-This is an android application made on android studio giving the UI of an QR code and barcode app which is integrated with firebase for authentication and and stores all scanned codes on Firestorage.
+This is an android application made on android studio giving the UI of an QR code and barcode app which is integrated with firebase for authentication and and stores all scanned codes on Firestore.
 
 ## Points to remember while testing the app
 
